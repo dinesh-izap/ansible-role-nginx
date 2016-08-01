@@ -1,7 +1,7 @@
 galaxy_info:
-  author: 
-  company: 
-  description:
+  author: dinesh
+  company: xyz
+  description: Install Nginx packages from source.
   min_ansible_version: 1.4
   license: MIT
   platforms:
