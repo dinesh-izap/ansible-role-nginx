@@ -11,9 +11,6 @@ galaxy_info:
   - name: Debian
     version:
     - all
-  categories:
-  - system
-  - development
   galaxy_tags:
   - webserver
 
