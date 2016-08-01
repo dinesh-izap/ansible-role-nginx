@@ -14,5 +14,7 @@ galaxy_info:
   categories:
   - system
   - development
+  galaxy_tags:
+  - webserver
 
 dependencies: []
