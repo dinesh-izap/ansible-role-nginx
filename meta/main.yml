@@ -31,7 +31,7 @@ galaxy_info:
   # the ones that apply to your role. If you don't see your
   # platform on this list, let us know and we'll get it added!
   #
-  #platforms:
+  platforms:
   #- name: EL
   #  versions:
   #  - all
@@ -132,7 +132,7 @@ galaxy_info:
   #  - 9.1
   #  - 9.2
   #  - 9.3
-  #- name: Ubuntu
+  - name: Ubuntu
   #  versions:
   #  - all
   #  - lucid
@@ -143,7 +143,7 @@ galaxy_info:
   #  - quantal
   #  - raring
   #  - saucy
-  #  - trusty
+   - trusty
   #  - utopic
   #  - vivid
   #  - wily
