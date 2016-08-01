@@ -11,6 +11,13 @@
     - libpcre3
     - libpcre3-dev
     - libssl-dev
+    - autoconf
+    - binutils-doc
+    - bison
+    - build-essential
+    - flex
+    - gettext
+    - ncurses-dev
 
 - name: Nginx | Download the Nginx source release if not yet present
   get_url:
