@@ -2,3 +2,4 @@
 # tasks file for ansible-role-nginx
 
 - include: source.yml
+- include: scripts.yml
