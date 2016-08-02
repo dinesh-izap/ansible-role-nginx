@@ -4,3 +4,4 @@
 - include: source.yml
 - include: scripts.yml
 - include: configure.yml
+- include: default_site.yml
