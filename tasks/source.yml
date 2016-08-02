@@ -18,6 +18,9 @@
     - flex
     - gettext
     - ncurses-dev
+    - perl
+    - libperl-dev
+    - python-httplib2
 
 - name: Nginx | Download the Nginx source release if not yet present
   get_url:
