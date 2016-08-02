@@ -3,3 +3,4 @@
 
 - include: source.yml
 - include: scripts.yml
+- include: configure.yml
