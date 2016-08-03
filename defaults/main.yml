@@ -6,9 +6,7 @@ nginx: "nginx"
 
 nginx_user: www-data
 nginx_group: www-data
-nginx_uid: 33
-nginx_gid: 33
-use_existing_user: "true"
+use_existing_user: false
 
 nginx_dir: "/etc/nginx"
 nginx_www_dir: "/srv/www"
