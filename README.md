@@ -13,7 +13,6 @@ Currently it's been developed for, and tested on Ubuntu. It is assumed to work o
 
 ##### default (nginx.conf)
 
-- `nginx_install_method` - "source" or "package"
 - `nginx_user` - user Nginx will run as
 - `nginx_uid` - the uid for this user
 - `nginx_group` - Nginx group
@@ -136,11 +135,6 @@ nginx_enabled_sites:
 nginx_disabled_sites:
   - webmail.localhost
 ```
-
-##### Monit ?
-You can put Nginx under monit monitoring protection, by setting `monit_protection: yes`
-
-
 ##### Modules
 
 ###### gzip module
