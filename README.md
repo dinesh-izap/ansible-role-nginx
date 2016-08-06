@@ -181,11 +181,6 @@ nginx_disabled_sites:
 - `nginx_geoip_country: "{{nginx_dir}}/geoip/GeoIP.dat"`
 - `nginx_geoip_city: "{{nginx_dir}}/geoip/GeoLiteCity.dat"`
 
-#### Testing
-This project comes with a VagrantFile, this is a fast and easy way to test changes to the role, fire it up with `vagrant up`. 
-
-See [vagrant docs](https://docs.vagrantup.com/v2/) for getting setup with vagrant
-
 ##### License
 
 Licensed under the MIT License. See the LICENSE file for details.
