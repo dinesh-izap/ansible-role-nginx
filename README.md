@@ -14,9 +14,7 @@ Currently it's been developed for, and tested on Ubuntu. It is assumed to work o
 ##### default (nginx.conf)
 
 - `nginx_user` - user Nginx will run as
-- `nginx_uid` - the uid for this user
 - `nginx_group` - Nginx group
-- `nginx_gid` - the gid for this group
 - `nginx_dir` - location of the Nginx configuration (conf, sites-available, sites-enabled, ...)
 - `nginx_www_dir` - location of the www root for Nginx sites
 - `nginx_log_dir` - location of the Nginx logs
