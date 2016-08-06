@@ -183,4 +183,4 @@ nginx_disabled_sites:
 
 ##### License
 
-Licensed under the MIT License. See the LICENSE file for details.
+Licensed under the MIT License.
